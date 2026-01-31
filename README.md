@@ -3,6 +3,6 @@
   <img src="ex.png" alt="Example" height="120" />
 </div>
 
-<h1>I'm Nur</h1>
+<h1>I'm Nur 👋</h1>
 
-<p>I'm a software engineer</p>
+<p>I'm a Software Engineering student at the University of Waterloo.</p>
