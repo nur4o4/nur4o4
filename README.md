@@ -3,4 +3,4 @@
   <img src="ex.png" alt="Example" height="120" />
 </div>
 
-<p>I'm Nur, a Software Engineering student at the University of Waterloo.</p>
+<h2>I'm Nur, a Software Engineering student at the University of Waterloo.</h2>
