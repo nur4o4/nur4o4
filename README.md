@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
-  <img src="hi.png" alt="Hi" width="120" />
-  <span style="font-size: 120px; font-weight: 700; margin-left: 16px;">
+  <img src="hi.png" alt="Hi" width="80" />
+  <span style="font-size: 1200px; font-weight: 900; margin-left: 16px;">
     I'm Nur
   </span>
 </div>
