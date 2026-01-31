@@ -1,5 +1,5 @@
 <div style="display: flex; gap: 16px;">
-  <img src="hello.png" alt="Hello" height="120" />
+  <img src="hi.png" alt="Hello" height="120" />
   <img src="ex.png" alt="Example" height="120" />
 </div>
 
